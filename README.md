@@ -3,6 +3,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>BaGGaRee Gaming</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700;900&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
 
@@ -307,7 +308,11 @@ Watch Live
 
 <div class="socials">
 
-<a href="#" class="social tiktok">
+<<a href="https://www.tiktok.com/@baggaree_gaming?lang=ar"
+class="social tiktok"
+target="_blank">
+TikTok
+</a>">
 TikTok
 </a>
 
