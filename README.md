@@ -308,13 +308,9 @@ Watch Live
 
 <div class="socials">
 
-<<a href="https://www.tiktok.com/@baggaree_gaming?lang=ar"
-class="social tiktok"
-target="_blank">
+<a href="#" class="social tiktok">
 TikTok
-</a>">
-TikTok
-</a>
+<https://www.tiktok.com/@baggaree_gaming?lang=ar/a>
 
 <a href="#" class="social youtube">
 YouTube
