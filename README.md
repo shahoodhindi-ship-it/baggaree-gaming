@@ -285,7 +285,7 @@ Watch Live
 <div class="stats">
 
 <div class="card">
-<h3>570295334</h3>
+<h3>5702953334</h3>
 <p>PUBG ID</p>
 </div>
 
